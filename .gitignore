@@ -229,3 +229,9 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+galvo_calibration_v2.componentinfo.xml
+*.cppproj
+galvo_calibration_v2.vcxproj
+*.filters
+__vm/.galvo_calibration_v2.vsarduino.h
+*.xml
